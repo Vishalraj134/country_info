@@ -1,0 +1,72 @@
+{
+    "country": [
+      { 
+        "id":1,
+        "country": "United States",
+        "capital": "Washington, D.C.",
+        "population": 331002651,
+        "interesting_fact": "The United States has the world's largest economy by nominal GDP."
+      },
+      {
+        "id":2,
+        "country": "China",
+        "capital": "Beijing",
+        "population": 1402112000,
+        "interesting_fact": "China is home to the Great Wall, which is over 13,000 miles long."
+      },
+      {
+        "id":3,
+        "country": "India",
+        "capital": "New Delhi",
+        "population": 1380004385,
+        "interesting_fact": "India is the world's largest democracy and the second-most populous country."
+      },
+      {
+        "id":4,
+        "country": "Japan",
+        "capital": "Tokyo",
+        "population": 126476461,
+        "interesting_fact": "Japan has the highest life expectancy in the world."
+      },
+      {
+        "id":5,
+        "country": "Brazil",
+        "capital": "Brasília",
+        "population": 212559417,
+        "interesting_fact": "Brazil is home to the Amazon Rainforest, which is the largest rainforest in the world."
+      },
+      {
+        "id":6,
+        "country": "Russia",
+        "capital": "Moscow",
+        "population": 145934462,
+        "interesting_fact": "Russia is the largest country in the world by land area, covering more than one-eighth of the Earth's inhabited land area."
+      },
+      {
+        "id":7,
+        "country": "Germany",
+        "capital": "Berlin",
+        "population": 83783942,
+        "interesting_fact": "Germany is known for its engineering and is home to many famous car manufacturers like BMW, Mercedes-Benz, and Volkswagen."
+      },
+      {"id":8,
+        "country": "France",
+        "capital": "Paris",
+        "population": 65273511,
+        "interesting_fact": "France is the most visited country in the world, attracting millions of tourists each year to landmarks like the Eiffel Tower and the Louvre Museum."
+      },
+      {"id":9,
+        "country": "United Kingdom",
+        "capital": "London",
+        "population": 67886011,
+        "interesting_fact": "The United Kingdom is made up of four countries: England, Scotland, Wales, and Northern Ireland."
+      },
+      {
+        "id":10,
+        "country": "Australia",
+        "capital": "Canberra",
+        "population": 25499884,
+        "interesting_fact": "Australia is the only continent that is also a single country, and it is home to unique wildlife like kangaroos and koalas."
+      }
+    ]
+  }
