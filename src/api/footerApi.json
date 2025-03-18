@@ -1,0 +1,17 @@
+[
+    {
+        "icon":"MdPlace",
+        "title":"Find us",
+        "details":"Pune,Maharastra"
+    },
+    {
+        "icon":"IOCallSharp",
+        "title":"Call us",
+        "details":"047023456476"
+    },
+    {
+        "icon":"TbMailPlus",
+        "title":"Mail us",
+        "details":"contact@kodyfier.com"
+    }
+]
