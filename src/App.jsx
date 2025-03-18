@@ -4,7 +4,7 @@ import { AppLayout } from "./components/layouts/AppLayout";
 import "./App.css";
 import { Home } from "./pages/Home";
 import { About } from "./pages/About";
-import { Contact } from "./pages/Contact";
+import { Contact } from "./pages/contact";
 import { Country } from "./pages/Country";
 import { ErrorPage } from "./pages/ErrorPage";
 
