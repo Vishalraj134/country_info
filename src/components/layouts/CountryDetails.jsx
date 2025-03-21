@@ -1,7 +1,7 @@
 import { useEffect, useState, useTransition } from "react";
 import { NavLink, useParams } from "react-router-dom";
 import { getCountryIndData } from "../../api/postApi";
-import { Loader } from "../UI/Loader";
+import { Loader } from "../UI/Loder";
 
 export const CountryDetails = () => {
   const params = useParams();
@@ -21,7 +21,7 @@ export const CountryDetails = () => {
     });
   }, []);
 
-  if (isPending) return <Loader />;
+  if (isPending) return <Loader/>;
 
   console.log(params);
   return (

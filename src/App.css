@@ -1,9 +1,10 @@
 #root {
-  max-width: 1280px;
+  max-width: 1350px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 0.5rem;
   text-align: center;
 }
+
 
 .logo {
   height: 6em;
@@ -42,8 +43,8 @@
 }
 
 .container{
-  max-width: 140rem;
-  margin:auto;
+  max-width: 150rem;
+  margin:2px;
 }
 .grid{
   display:grid;

@@ -1,6 +1,6 @@
 import footerContact from "../../api/footerApi.json";
 import  {MdPlace} from "react-icons/md";
-import  { IOCallSharp} from "react-icons/io5";
+import  { IoCallSharp} from "react-icons/io5";
 import  {TbMailPlus} from "react-icons/tb";
 
 import { NavLink } from "react-router-dom";
@@ -8,7 +8,7 @@ import { NavLink } from "react-router-dom";
 export const Footers =()=>{
     const footerIcon={
         MdPlace:<MdPlace/>,
-        IOCallSharp:< IOCallSharp/>,
+        IOCallSharp:< IoCallSharp/>,
         TbMailPlus:<TbMailPlus/>,
     };
 
@@ -67,3 +67,4 @@ export const Footers =()=>{
         </footer>
     );
 };
+

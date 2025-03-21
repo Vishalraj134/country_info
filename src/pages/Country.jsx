@@ -1,8 +1,9 @@
 import { useEffect, useState, useTransition } from "react";
 import { getCountryData } from "../api/postApi";
-import { Loader } from "../components/UI/Loader";
-import { CountryCard } from "../components/Layout/CountryCard";
-import { SearchFilter } from "../components/UI/SerachFilter";
+import { Loader } from "../components/UI/Loder";
+import { CountryCard } from "../components/layouts/CountryCard";
+import { SearchFilter } from "../components/UI/SearchFilter";
+
 
 export const Country = () => {
   const [isPending, startTransition] = useTransition();
@@ -18,7 +19,7 @@ export const Country = () => {
     });
   }, []);
 
-  if (isPending) return <Loader />;
+  if (isPending) return <Loader/>;
 
   // console.log(search, filter);
 
